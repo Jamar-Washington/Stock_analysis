@@ -4,6 +4,10 @@
 
 In the VBA of Wall Street project, Steve just graduated with a degree in Finance. His parents are his first client and they want to invest in a particular green energy stock. He has asked us to assist him in looking at green energy stocks for his parents. Given the stocks of green energy companies in 2017 and 2018, we are able to help Steve tell his parents if the investing they are looking at is a good one and which stocks Steve's parents should also look for.
 
+### Tools used in project
+**Excel**   
+**VBA**
+
 ## Results
 
 After going through the stocks of 2017 and 2018, the best stocks to look into is ENPH and RUN. They are the only two stocks that had positive returns in both years. DQ had a great 199.4 percent return on investment in 2017. However, DQ had a negative return on investment in 2018. Combined, over the past two years, DQ stock's were up over 100 percent. Overall, Steve's parents pick of DQ stocks overall was good, but the best stocks Steve should tell his parents to invest in is ENPH and RUN. 
